@@ -8,14 +8,41 @@
     "wrap": true,
     "alwaysUnlocked": true,
     "wards": [
-      { "id": "lady", "name": "The Lady's Ward", "color": "#bf5138" },
-      { "id": "lower", "name": "Lower Ward", "color": "#544173" },
-      { "id": "hive", "name": "The Hive", "color": "#d95353" },
-      { "id": "clerk", "name": "Clerks' Ward", "color": "#95ac5f" },
-      { "id": "market", "name": "Market Ward", "color": "#db9537" },
-      { "id": "under", "name": "Under Sigil", "color": "#555555" },
-      { "id": "any", "name": "Anywhere in Sigil", "color": "#795548" },
-      { "id": "other", "name": "Other", "color": "#757575" }
+      {
+        "id": "lady",
+        "name": "The Lady's Ward",
+        "color": "#bf5138"
+      },
+      {
+        "id": "lower",
+        "name": "Lower Ward",
+        "color": "#544173"
+      },
+      {
+        "id": "hive",
+        "name": "The Hive",
+        "color": "#d95353"
+      },
+      {
+        "id": "clerk",
+        "name": "Clerks' Ward",
+        "color": "#95ac5f"
+      },
+      {
+        "id": "market",
+        "name": "Market Ward",
+        "color": "#db9537"
+      },
+      {
+        "id": "under",
+        "name": "Under Sigil",
+        "color": "#555555"
+      },
+      {
+        "id": "any",
+        "name": "Anywhere in Sigil",
+        "color": "#795548"
+      }
     ]
   }
 ]
