@@ -1,3 +1,13 @@
 {
-  "sigil": []
+  "sigil": [
+    {
+      "id": "fortunes-wheel",
+      "name": "Fortune's Wheel",
+      "ward": "lady",
+      "x": 974,
+      "y": 256,
+      "nolabel": true,
+      "text": "A long gaming hall with a gilded wheel mounted on its roof. Striped awnings and open doors line the front."
+    }
+  ]
 }

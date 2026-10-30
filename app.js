@@ -176,8 +176,7 @@
       var w = wardOf(p), els = [];
       for (var i = 0; i < (wrap ? 2 : 1); i++) {
         var b = el('button', { 'class': 'pin', type: 'button', 'aria-label': p.name, 'data-id': p.id }, [
-          el('span', { 'class': 'dot' }), el('span', { 'class': 'lab', text: p.name })
-        ]);
+          el('span', { 'class': 'dot' })].concat(p.nolabel ? [] : [el('span', { 'class': 'lab', text: p.name })]));
         b.style.setProperty('--c', w.color);
         if (DM_PAGE && !revealed(p)) b.classList.add('off');
         if (p.id === selId) b.classList.add('sel');
