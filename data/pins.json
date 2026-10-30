@@ -8,6 +8,12 @@
       "y": 256,
       "nolabel": true,
       "text": "A long gaming hall with a gilded wheel mounted on its roof. Striped awnings and open doors line the front."
+    },
+    {
+      "id": "funicular",
+      "name": "Funicular",
+      "ward": "any",
+      "text": "A tavern on wheels that seems to teeter on the edge of Sigil. Every once in a while it rolls by, or you can spot it across the ring."
     }
   ]
 }
