@@ -14,6 +14,12 @@
       "name": "Funicular",
       "ward": "any",
       "text": "A tavern on wheels that seems to teeter on the edge of Sigil. Every once in a while it rolls by, or you can spot it across the ring."
+    },
+    {
+      "id": "secret-door-safe-house",
+      "name": "Secret Door Safe House",
+      "ward": "any",
+      "text": "A plain door in a plain wall. It is rarely in the same wall twice."
     }
   ]
 }
