@@ -173,6 +173,7 @@
     pinsEl.querySelectorAll('.pin').forEach(function (n) { n.remove(); });
     items = [];
     visiblePins().forEach(function (p) {
+      if (p.x == null || p.y == null) return; // card-only pin: listed in the ward panel, no dot
       var w = wardOf(p), els = [];
       for (var i = 0; i < (wrap ? 2 : 1); i++) {
         var b = el('button', { 'class': 'pin', type: 'button', 'aria-label': p.name, 'data-id': p.id }, [
@@ -275,7 +276,7 @@
     buildCard(); buildPanel();
     items.forEach(function (it) { it.els.forEach(function (b) { b.classList.toggle('sel', it.pin.id === id); }); });
     var p = curPins().filter(function (q) { return q.id === id; })[0];
-    if (p && fly) flyTo(p.x, p.y);
+    if (p && fly && p.x != null && p.y != null) flyTo(p.x, p.y);
     panel.scrollTop = 0;
     req();
   }
