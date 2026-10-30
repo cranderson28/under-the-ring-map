@@ -1,0 +1,8 @@
+{
+  "rules": {
+    "state": {
+      ".read": true,
+      ".write": "auth != null && auth.uid === 'REPLACE_WITH_DM_UID'"
+    }
+  }
+}

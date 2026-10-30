@@ -1,0 +1,41 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+<meta name="robots" content="noindex, nofollow">
+<title>Map of Sigil (DM)</title>
+<link rel="stylesheet" href="style.css">
+</head>
+<body data-mode="dm">
+<div id="login">
+  <form id="loginform">
+    <div>DM login</div>
+    <input id="em" type="email" placeholder="Email" autocomplete="username" required>
+    <input id="pw" type="password" placeholder="Password" autocomplete="current-password" required>
+    <button type="submit">Sign in</button>
+    <div class="err" id="loginerr"></div>
+  </form>
+</div>
+<div id="stage">
+  <div id="map"></div>
+  <div id="pins"></div>
+  <div id="mapctl">
+    <select id="mapsel" aria-label="Choose map" hidden></select>
+    <div class="zoombtns"><button id="zin" aria-label="Zoom in">+</button><button id="zout" aria-label="Zoom out">&minus;</button></div>
+  </div>
+  <div id="coord"></div>
+</div>
+<div id="panel">
+  <div class="dmbar"><span id="tally"></span><span><button id="coordbtn">Show coordinates</button> <button id="logout">Sign out</button></span></div>
+  <div id="card" class="empty">Tap a pin to see its card. Use the switches below to reveal or hide pins.</div>
+  <div id="wards" class="wards"></div>
+  <div class="dmsec" id="mapsec"><h3>Maps unlocked for players</h3><div id="maplist"></div></div>
+</div>
+<script src="https://www.gstatic.com/firebasejs/10.12.2/firebase-app-compat.js"></script>
+<script src="https://www.gstatic.com/firebasejs/10.12.2/firebase-database-compat.js"></script>
+<script src="https://www.gstatic.com/firebasejs/10.12.2/firebase-auth-compat.js"></script>
+<script src="config.js"></script>
+<script src="app.js"></script>
+</body>
+</html>
