@@ -20,6 +20,416 @@
       "name": "Secret Door Safe House",
       "ward": "any",
       "text": "A plain door in a plain wall. It is rarely in the same wall twice."
+    },
+    {
+      "id": "barracks",
+      "name": "Barracks",
+      "ward": "lady",
+      "x": 535,
+      "y": 195,
+      "text": "",
+      "nolabel": true
+    },
+    {
+      "id": "high-courts",
+      "name": "High Courts",
+      "ward": "lady",
+      "x": 585,
+      "y": 479,
+      "text": "",
+      "nolabel": true
+    },
+    {
+      "id": "prison",
+      "name": "Prison",
+      "ward": "lady",
+      "x": 929,
+      "y": 533,
+      "text": "",
+      "nolabel": true
+    },
+    {
+      "id": "heart-s-fire",
+      "name": "Heart's Fire",
+      "ward": "lady",
+      "x": 349,
+      "y": 694,
+      "text": "",
+      "nolabel": true
+    },
+    {
+      "id": "infinite-well",
+      "name": "Infinite Well",
+      "ward": "lady",
+      "x": 1507,
+      "y": 782,
+      "text": "",
+      "nolabel": true
+    },
+    {
+      "id": "wandering-flame-guild-hall",
+      "name": "Wandering Flame guild hall",
+      "ward": "lady",
+      "x": 1409,
+      "y": 429,
+      "text": ""
+    },
+    {
+      "id": "red-sensation-museum-of-art",
+      "name": "Red Sensation Museum of Art",
+      "ward": "lady",
+      "x": 501,
+      "y": 873,
+      "text": ""
+    },
+    {
+      "id": "baatorian-embassy",
+      "name": "Baatorian Embassy",
+      "ward": "lady",
+      "x": 832,
+      "y": 574,
+      "text": ""
+    },
+    {
+      "id": "mirrored-museums",
+      "name": "Mirrored Museums",
+      "ward": "lady",
+      "x": 1186,
+      "y": 946,
+      "text": ""
+    },
+    {
+      "id": "armory",
+      "name": "Armory",
+      "ward": "lower",
+      "x": 1692,
+      "y": 329,
+      "text": "",
+      "nolabel": true
+    },
+    {
+      "id": "great-foundry",
+      "name": "Great Foundry",
+      "ward": "lower",
+      "x": 2123,
+      "y": 416,
+      "text": "",
+      "nolabel": true
+    },
+    {
+      "id": "shattered-temple",
+      "name": "Shattered Temple",
+      "ward": "lower",
+      "x": 2480,
+      "y": 573,
+      "text": "",
+      "nolabel": true
+    },
+    {
+      "id": "ubiquitous-wayfarer",
+      "name": "Ubiquitous Wayfarer",
+      "ward": "lower",
+      "x": 1960,
+      "y": 788,
+      "text": "",
+      "nolabel": true
+    },
+    {
+      "id": "red-lantern",
+      "name": "Red Lantern",
+      "ward": "lower",
+      "x": 2011,
+      "y": 1008,
+      "text": ""
+    },
+    {
+      "id": "parted-veil",
+      "name": "Parted Veil",
+      "ward": "lower",
+      "x": 2338,
+      "y": 367,
+      "text": "",
+      "nolabel": true
+    },
+    {
+      "id": "face-of-gith",
+      "name": "Face of Gith",
+      "ward": "lower",
+      "x": 2470,
+      "y": 193,
+      "text": "",
+      "nolabel": true
+    },
+    {
+      "id": "bones-of-the-night",
+      "name": "Bones of the Night",
+      "ward": "lower",
+      "x": 2593,
+      "y": 894,
+      "text": "",
+      "nolabel": true
+    },
+    {
+      "id": "five-portals-inn",
+      "name": "Five Portals Inn",
+      "ward": "lower",
+      "x": 2597,
+      "y": 455,
+      "text": ""
+    },
+    {
+      "id": "mortuary",
+      "name": "Mortuary",
+      "ward": "hive",
+      "x": 2830,
+      "y": 237,
+      "text": "",
+      "nolabel": true
+    },
+    {
+      "id": "gatehouse",
+      "name": "Gatehouse",
+      "ward": "hive",
+      "x": 3167,
+      "y": 422,
+      "text": "",
+      "nolabel": true
+    },
+    {
+      "id": "the-ditch",
+      "name": "The Ditch",
+      "ward": "hive",
+      "x": 2887,
+      "y": 551,
+      "text": "",
+      "nolabel": true
+    },
+    {
+      "id": "gatehouse-night-market",
+      "name": "Gatehouse Night Market",
+      "ward": "hive",
+      "x": 3028,
+      "y": 837,
+      "text": "",
+      "nolabel": true
+    },
+    {
+      "id": "fell-s-tattoos",
+      "name": "Fell's Tattoos",
+      "ward": "hive",
+      "x": 3781,
+      "y": 188,
+      "text": "",
+      "nolabel": true
+    },
+    {
+      "id": "smoldering-corpse-bar",
+      "name": "Smoldering Corpse Bar",
+      "ward": "hive",
+      "x": 3673,
+      "y": 488,
+      "text": "",
+      "nolabel": true
+    },
+    {
+      "id": "parakk-pest",
+      "name": "Parakk Pest",
+      "ward": "hive",
+      "x": 4054,
+      "y": 388,
+      "text": "",
+      "nolabel": true
+    },
+    {
+      "id": "bottle-and-jug",
+      "name": "Bottle and Jug",
+      "ward": "hive",
+      "x": 3567,
+      "y": 855,
+      "text": "",
+      "nolabel": true
+    },
+    {
+      "id": "grease-pit",
+      "name": "Grease Pit",
+      "ward": "hive",
+      "x": 4118,
+      "y": 841,
+      "text": "",
+      "nolabel": true
+    },
+    {
+      "id": "horus-s-house",
+      "name": "Horus's House",
+      "ward": "hive",
+      "x": 3083,
+      "y": 390,
+      "text": ""
+    },
+    {
+      "id": "cask-family-hq",
+      "name": "Cask Family HQ",
+      "ward": "hive",
+      "x": 3811,
+      "y": 606,
+      "text": ""
+    },
+    {
+      "id": "ninefold-tenement",
+      "name": "Ninefold Tenement",
+      "ward": "hive",
+      "x": 2932,
+      "y": 778,
+      "text": ""
+    },
+    {
+      "id": "rusted-bell-hangout",
+      "name": "Rusted Bell hangout",
+      "ward": "hive",
+      "x": 3705,
+      "y": 932,
+      "text": ""
+    },
+    {
+      "id": "gray-ledger",
+      "name": "Gray Ledger",
+      "ward": "hive",
+      "x": 4061,
+      "y": 587,
+      "text": ""
+    },
+    {
+      "id": "certified-fishing-circle-of-the-ditch",
+      "name": "Certified Fishing Circle of the Ditch",
+      "ward": "hive",
+      "x": 2802,
+      "y": 829,
+      "text": "The only credentialed fishing spot in all of Sigil. Catch of the day: Left Boot. Rods for rent. Bait for sale. Regulars welcome."
+    },
+    {
+      "id": "hall-of-records",
+      "name": "Hall of Records",
+      "ward": "clerk",
+      "x": 4462,
+      "y": 358,
+      "text": "",
+      "nolabel": true
+    },
+    {
+      "id": "hall-of-speakers",
+      "name": "Hall of Speakers",
+      "ward": "clerk",
+      "x": 5117,
+      "y": 635,
+      "text": "",
+      "nolabel": true
+    },
+    {
+      "id": "civic-festhall",
+      "name": "Civic Festhall",
+      "ward": "clerk",
+      "x": 4942,
+      "y": 193,
+      "text": "",
+      "nolabel": true
+    },
+    {
+      "id": "hall-of-information",
+      "name": "Hall of Information",
+      "ward": "clerk",
+      "x": 4918,
+      "y": 493,
+      "text": "",
+      "nolabel": true
+    },
+    {
+      "id": "tower-sorcerous",
+      "name": "Tower Sorcerous",
+      "ward": "clerk",
+      "x": 5452,
+      "y": 348,
+      "text": "",
+      "nolabel": true
+    },
+    {
+      "id": "tea-street-transit",
+      "name": "Tea Street Transit",
+      "ward": "clerk",
+      "x": 4612,
+      "y": 734,
+      "text": "",
+      "nolabel": true
+    },
+    {
+      "id": "planar-trade-consortium",
+      "name": "Planar Trade Consortium",
+      "ward": "clerk",
+      "x": 5441,
+      "y": 861,
+      "text": "A broad pale-stone building with a brass plaque beside every one of its many doors. A chiseled list of exchangeable currencies runs along the outer wall."
+    },
+    {
+      "id": "great-gymnasium",
+      "name": "Great Gymnasium",
+      "ward": "market",
+      "x": 5720,
+      "y": 372,
+      "text": "",
+      "nolabel": true
+    },
+    {
+      "id": "great-bazaar",
+      "name": "Great Bazaar",
+      "ward": "market",
+      "x": 6118,
+      "y": 650,
+      "text": "",
+      "nolabel": true
+    },
+    {
+      "id": "planar-energy-cooperative",
+      "name": "Planar Energy Cooperative",
+      "ward": "market",
+      "x": 6113,
+      "y": 222,
+      "text": "",
+      "nolabel": true
+    },
+    {
+      "id": "bank-of-abbathor-inc",
+      "name": "Bank of Abbathor Inc.",
+      "ward": "market",
+      "x": 6688,
+      "y": 188,
+      "text": "",
+      "nolabel": true
+    },
+    {
+      "id": "institute-for-intellectual-excellence",
+      "name": "Institute for Intellectual Excellence",
+      "ward": "market",
+      "x": 6365,
+      "y": 379,
+      "text": "",
+      "nolabel": true
+    },
+    {
+      "id": "gastrognome",
+      "name": "Gastrognome",
+      "ward": "market",
+      "x": 5786,
+      "y": 692,
+      "text": "",
+      "nolabel": true
+    },
+    {
+      "id": "flame-pits",
+      "name": "Flame Pits",
+      "ward": "market",
+      "x": 6528,
+      "y": 859,
+      "text": "",
+      "nolabel": true
     }
   ]
 }
