@@ -312,7 +312,7 @@
       "ward": "clerk",
       "x": 4462,
       "y": 358,
-      "text": "",
+      "text": "A colossal, ringed, geometric, bureaucratic monolith of towers where the city's records are kept.",
       "nolabel": true
     },
     {
@@ -321,7 +321,7 @@
       "ward": "clerk",
       "x": 5117,
       "y": 635,
-      "text": "",
+      "text": "A tiered, rounded hall of green and gold where politics and public speaking take place.  The self-proclaimed center of the political multiverse.",
       "nolabel": true
     },
     {
@@ -330,7 +330,7 @@
       "ward": "clerk",
       "x": 4942,
       "y": 193,
-      "text": "",
+      "text": "A grand hall of banners and spires made of hundreds of materials gathered from places unknown.  Shades of colors clash bizarrely yet it is well built.  The central location of culture.",
       "nolabel": true
     },
     {
@@ -339,7 +339,7 @@
       "ward": "clerk",
       "x": 4918,
       "y": 493,
-      "text": "",
+      "text": "A domed hall of records and appointments, with a bright blue roof, made of white marble and gray slate.",
       "nolabel": true
     },
     {
@@ -348,7 +348,7 @@
       "ward": "clerk",
       "x": 5452,
       "y": 348,
-      "text": "",
+      "text": "A tall, thorny spire standing alone above the rooftops with no windows and no doors.  The home of all wizardly knowledge that its allies have collected.",
       "nolabel": true
     },
     {
@@ -357,7 +357,7 @@
       "ward": "clerk",
       "x": 4612,
       "y": 734,
-      "text": "",
+      "text": "A pale-stone flat-wide building with a very large stable, on a quiet street.  The hub of the personal transportation service in Sigil.  Those bulbous onion shaped, pony drawn carriages are based here.",
       "nolabel": true
     },
     {
@@ -565,7 +565,7 @@
       "ward": "clerk",
       "x": 4908,
       "y": 352,
-      "text": ""
+      "text": "A billiard parlor."
     },
     {
       "id": "lazz-school-of-vivid-unpleasantness",
@@ -573,7 +573,7 @@
       "ward": "clerk",
       "x": 4846,
       "y": 911,
-      "text": ""
+      "text": "An art school and salon for jarring, cacophonous and controversial performances."
     },
     {
       "id": "streetsweeper-s-yard",
@@ -581,7 +581,7 @@
       "ward": "clerk",
       "x": 4600,
       "y": 1001,
-      "text": ""
+      "text": "A junkyard where the dabus pile what the streets have swept up.  With a ‘donation’ they will allow a search without question."
     },
     {
       "id": "the-other-place-spa",
@@ -685,7 +685,7 @@
       "ward": "clerk",
       "x": 5564,
       "y": 237,
-      "text": ""
+      "text": "A large toy store.  The front display has the largest glazed window that you have ever seen."
     },
     {
       "id": "wrangle-wrangle-wrangle-wrangle-wrangle-wrangle-wrangle-and-pinch-att-at-law",
@@ -693,7 +693,7 @@
       "ward": "clerk",
       "x": 4698,
       "y": 1050,
-      "text": ""
+      "text": "A law office with a long painted sign of eight names.  The door has a plaque with the name and side of the office is painted with ‘injured in a cart accident, one visit that’s all.’"
     }
   ]
 }
