@@ -138,8 +138,8 @@
       "id": "red-lantern",
       "name": "Red Lantern",
       "ward": "lower",
-      "x": 2011,
-      "y": 1008,
+      "x": 2520,
+      "y": 1013,
       "text": ""
     },
     {
@@ -430,6 +430,198 @@
       "y": 859,
       "text": "",
       "nolabel": true
+    },
+    {
+      "id": "everything-unexpected",
+      "name": "Everything Unexpected",
+      "ward": "lady",
+      "x": 149,
+      "y": 461,
+      "text": ""
+    },
+    {
+      "id": "tower-of-light-and-confusion",
+      "name": "Tower of Light and Confusion",
+      "ward": "lady",
+      "x": 174,
+      "y": 424,
+      "text": ""
+    },
+    {
+      "id": "xaos-kollage",
+      "name": "Xaos Kollage",
+      "ward": "lady",
+      "x": 1340,
+      "y": 539,
+      "text": ""
+    },
+    {
+      "id": "screaming-tower",
+      "name": "Screaming Tower",
+      "ward": "lady",
+      "x": 1567,
+      "y": 266,
+      "text": ""
+    },
+    {
+      "id": "palace-of-the-jester",
+      "name": "Palace of the Jester",
+      "ward": "lady",
+      "x": 343,
+      "y": 1017,
+      "text": ""
+    },
+    {
+      "id": "high-up",
+      "name": "High-Up",
+      "ward": "lady",
+      "x": 184,
+      "y": 313,
+      "text": ""
+    },
+    {
+      "id": "rule-of-four",
+      "name": "Rule of Four",
+      "ward": "lower",
+      "x": 2011,
+      "y": 1008,
+      "text": ""
+    },
+    {
+      "id": "sign-of-the-drunken-mage",
+      "name": "Sign of the Drunken Mage",
+      "ward": "lower",
+      "x": 2451,
+      "y": 832,
+      "text": ""
+    },
+    {
+      "id": "dirk-and-firkin-tavern",
+      "name": "Dirk and Firkin Tavern",
+      "ward": "lower",
+      "x": 2476,
+      "y": 933,
+      "text": ""
+    },
+    {
+      "id": "spireward-trading-co",
+      "name": "Spireward Trading Co.",
+      "ward": "lower",
+      "x": 2376,
+      "y": 736,
+      "text": ""
+    },
+    {
+      "id": "the-friendly-fiend",
+      "name": "The Friendly Fiend",
+      "ward": "lower",
+      "x": 2110,
+      "y": 283,
+      "text": ""
+    },
+    {
+      "id": "the-golden-bell-pawnshop",
+      "name": "The Golden Bell Pawnshop",
+      "ward": "lower",
+      "x": 2146,
+      "y": 835,
+      "text": ""
+    },
+    {
+      "id": "hands-of-time-clockwork-shop",
+      "name": "Hands of Time Clockwork Shop",
+      "ward": "lower",
+      "x": 2038,
+      "y": 543,
+      "text": ""
+    },
+    {
+      "id": "giltspur-s-auction-block",
+      "name": "Giltspur's Auction Block",
+      "ward": "lower",
+      "x": 2339,
+      "y": 258,
+      "text": ""
+    },
+    {
+      "id": "boneyard-pond",
+      "name": "Boneyard Pond",
+      "ward": "hive",
+      "x": 3851,
+      "y": 889,
+      "text": ""
+    },
+    {
+      "id": "scratch-wall",
+      "name": "Scratch Wall",
+      "ward": "hive",
+      "x": 3288,
+      "y": 288,
+      "text": ""
+    },
+    {
+      "id": "silverahm-virlikot-s-billiard-parlor",
+      "name": "Silverahm Virlikot's billiard parlor",
+      "ward": "clerk",
+      "x": 4908,
+      "y": 352,
+      "text": ""
+    },
+    {
+      "id": "lazz-school-of-vivid-unpleasantness",
+      "name": "Lazz School of Vivid Unpleasantness",
+      "ward": "clerk",
+      "x": 4846,
+      "y": 911,
+      "text": ""
+    },
+    {
+      "id": "streetsweeper-s-yard",
+      "name": "Streetsweeper's Yard",
+      "ward": "clerk",
+      "x": 4600,
+      "y": 1001,
+      "text": ""
+    },
+    {
+      "id": "the-other-place-spa",
+      "name": "The Other Place Spa",
+      "ward": "market",
+      "x": 5857,
+      "y": 623,
+      "text": ""
+    },
+    {
+      "id": "wooly-cupgrass-laboratory",
+      "name": "Wooly Cupgrass' Laboratory",
+      "ward": "market",
+      "x": 6657,
+      "y": 612,
+      "text": ""
+    },
+    {
+      "id": "jandor-s-music-boxes",
+      "name": "Jandor's Music Boxes",
+      "ward": "market",
+      "x": 6567,
+      "y": 586,
+      "text": ""
+    },
+    {
+      "id": "divinities-clockwork-pet-shop",
+      "name": "Divinities Clockwork Pet Shop",
+      "ward": "market",
+      "x": 6468,
+      "y": 599,
+      "text": ""
+    },
+    {
+      "id": "sigis",
+      "name": "S.I.G.I.S.",
+      "ward": "under",
+      "x": 4375,
+      "y": 167,
+      "text": ""
     }
   ]
 }
