@@ -437,7 +437,7 @@
       "ward": "lady",
       "x": 149,
       "y": 461,
-      "text": "A candy and sweet shop."
+      "text": "A candy and sweet shop that will sell boomberries, carceni fireballs, Mount Celestia Candy Floss, and even Every Flavored Water from the Elemental plane of Water."
     },
     {
       "id": "tower-of-light-and-confusion",
@@ -445,7 +445,7 @@
       "ward": "lady",
       "x": 174,
       "y": 424,
-      "text": "A fun-house style tower of shifting lights and dizzying corridors, right next door to Everything Unexpected."
+      "text": "Need your noggin noodled, senses scrambled, this thin multistoried tower is the place to be.  Mirrored mazes that will put the Lady to shame.  Light shows that will leave you in wonder."
     },
     {
       "id": "xaos-kollage",
@@ -453,7 +453,7 @@
       "ward": "lady",
       "x": 1340,
       "y": 539,
-      "text": "A music venue."
+      "text": "This courtyard has a central tower with wrap around side buildings.  Once a college for learning, now a place for entertainment.  Hear the strings, percussion, and woodwinds of the chaosmen as they express their art."
     },
     {
       "id": "screaming-tower",
@@ -477,7 +477,7 @@
       "ward": "lady",
       "x": 184,
       "y": 313,
-      "text": "A fashion boutique."
+      "text": "A fashion boutique that will cater to your every whim.  Wine while you wait, measure while you muse, cheese while you choose."
     },
     {
       "id": "rule-of-four",
