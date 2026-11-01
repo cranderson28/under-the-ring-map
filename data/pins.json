@@ -374,7 +374,7 @@
       "ward": "market",
       "x": 5720,
       "y": 372,
-      "text": "",
+      "text": "A sprawling black marble complex veined in red and gold and red-roofed wings around public baths, meditation halls, and training grounds.",
       "nolabel": true
     },
     {
@@ -383,7 +383,7 @@
       "ward": "market",
       "x": 6118,
       "y": 650,
-      "text": "",
+      "text": "An open-air market of cramped stalls, carts, ramshackle structures, and tents, where almost anything can be bought or sold.",
       "nolabel": true
     },
     {
@@ -392,7 +392,7 @@
       "ward": "market",
       "x": 6113,
       "y": 222,
-      "text": "",
+      "text": "A tall, narrow tower with a clock face and a needle spire.  Glowing lines race up the side of the building to the top at regular intervals.",
       "nolabel": true
     },
     {
@@ -401,7 +401,7 @@
       "ward": "market",
       "x": 6688,
       "y": 188,
-      "text": "",
+      "text": "A heavy dwarven-built stone bank with a tall clock tower and rows of lit windows, guarded by a giant gemstone golem at its entrance.",
       "nolabel": true
     },
     {
@@ -410,7 +410,7 @@
       "ward": "market",
       "x": 6365,
       "y": 379,
-      "text": "",
+      "text": "A tall, many-spired hall of study where scholars lecture and argue.  The geometry of the building confuses your eyes, as it doesn't seem right.",
       "nolabel": true
     },
     {
@@ -419,7 +419,7 @@
       "ward": "market",
       "x": 5786,
       "y": 692,
-      "text": "",
+      "text": "A barrel-roofed restaurant with a small side tower.  Obviously once copper in color, the verdigris is evident by the streaks of green.",
       "nolabel": true
     },
     {
@@ -428,7 +428,7 @@
       "ward": "market",
       "x": 6528,
       "y": 859,
-      "text": "",
+      "text": "An open arched bathhouse made for guests with unusual needs, from open pools of lava and mud pits to water of untouched purity.",
       "nolabel": true
     },
     {
@@ -589,7 +589,7 @@
       "ward": "market",
       "x": 5857,
       "y": 623,
-      "text": ""
+      "text": "The open court luxurious spa for only the well-appointed across the street from the Great Gymnasium.  Names are checked at the door."
     },
     {
       "id": "wooly-cupgrass-laboratory",
@@ -597,7 +597,7 @@
       "ward": "market",
       "x": 6666,
       "y": 763,
-      "text": ""
+      "text": "An alchemist's laboratory whose owner can name almost any liquid brought through the door.  The building is metal, cylindrical, and closed off to any outsider except by invitation."
     },
     {
       "id": "jandor-s-music-boxes",
@@ -605,7 +605,7 @@
       "ward": "market",
       "x": 5804,
       "y": 963,
-      "text": ""
+      "text": "A tidy shop of music boxes big and small.  Each playing its own tune.  Each on its own mismatched shelf."
     },
     {
       "id": "divinities-clockwork-pet-shop",
@@ -613,7 +613,7 @@
       "ward": "market",
       "x": 6468,
       "y": 599,
-      "text": ""
+      "text": "A shop of clockwork animals both wind-up and magically imbued and perhaps somewhere in between.  The display shows a clockwork dog fetching a bone."
     },
     {
       "id": "sigis",
@@ -629,7 +629,7 @@
       "ward": "market",
       "x": 6262,
       "y": 988,
-      "text": ""
+      "text": "A tiny store cramped between one home and another store.  This junk shop is stocked end to end with odds and ends from the Astral Sea.  There is room enough for one customer."
     },
     {
       "id": "vaugle-vaugle-drakalar-and-spittle-bookkeepers",
@@ -637,7 +637,7 @@
       "ward": "market",
       "x": 6258,
       "y": 1028,
-      "text": ""
+      "text": "This three-story bookkeeping firm and store specializes in record storage and book reselling.  Nothing new is sold here."
     },
     {
       "id": "theatre-broulliard",
@@ -677,7 +677,7 @@
       "ward": "market",
       "x": 6030,
       "y": 866,
-      "text": ""
+      "text": "A magical bag shop minor in size, for all of your storage solutions. Its sign reads: Best bags in the berg."
     },
     {
       "id": "ziff-and-hamilly-s-toys",
