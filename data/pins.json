@@ -670,6 +670,14 @@
       "x": 920,
       "y": 886,
       "text": ""
+    },
+    {
+      "id": "bibbins-bags",
+      "name": "Bibbins Bags",
+      "ward": "market",
+      "x": 5887,
+      "y": 984,
+      "text": ""
     }
   ]
 }
