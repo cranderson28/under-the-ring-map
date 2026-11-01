@@ -694,6 +694,12 @@
       "x": 4698,
       "y": 1050,
       "text": "A law office with a long painted sign of eight names.  The door has a plaque with the name and side of the office is painted with ‘injured in a cart accident, one visit that’s all.’"
+    },
+    {
+      "id": "granny-nettle",
+      "name": "Granny Nettle",
+      "ward": "hive",
+      "text": ""
     }
   ]
 }
