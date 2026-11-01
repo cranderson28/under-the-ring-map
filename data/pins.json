@@ -595,16 +595,16 @@
       "id": "wooly-cupgrass-laboratory",
       "name": "Wooly Cupgrass' Laboratory",
       "ward": "market",
-      "x": 6657,
-      "y": 612,
+      "x": 6666,
+      "y": 763,
       "text": ""
     },
     {
       "id": "jandor-s-music-boxes",
       "name": "Jandor's Music Boxes",
       "ward": "market",
-      "x": 6567,
-      "y": 586,
+      "x": 5804,
+      "y": 963,
       "text": ""
     },
     {
@@ -621,6 +621,54 @@
       "ward": "under",
       "x": 4375,
       "y": 167,
+      "text": ""
+    },
+    {
+      "id": "jinggor-s-curios",
+      "name": "Jinggor's Curios",
+      "ward": "market",
+      "x": 6262,
+      "y": 988,
+      "text": ""
+    },
+    {
+      "id": "vaugle-vaugle-drakalar-and-spittle-bookkeepers",
+      "name": "Vaugle, Vaugle, Drakalar, and Spittle Bookkeepers",
+      "ward": "market",
+      "x": 6258,
+      "y": 1028,
+      "text": ""
+    },
+    {
+      "id": "theatre-broulliard",
+      "name": "Theatre Broulliard",
+      "ward": "lady",
+      "x": 719,
+      "y": 995,
+      "text": ""
+    },
+    {
+      "id": "magnum-opus-musee",
+      "name": "Magnum Opus' Musee",
+      "ward": "lady",
+      "x": 55,
+      "y": 807,
+      "text": ""
+    },
+    {
+      "id": "zadara-s-tower",
+      "name": "Zadara's Tower",
+      "ward": "lady",
+      "x": 1390,
+      "y": 635,
+      "text": ""
+    },
+    {
+      "id": "st-azreal-s-church",
+      "name": "St. Azreal's Church",
+      "ward": "lady",
+      "x": 920,
+      "y": 886,
       "text": ""
     }
   ]
