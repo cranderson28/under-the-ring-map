@@ -374,7 +374,7 @@
       "ward": "market",
       "x": 5720,
       "y": 372,
-      "text": "A sprawling black marble complex veined in red and gold and red-roofed wings around public baths, meditation halls, and training grounds.",
+      "text": "A sprawling black marble complex veined in red and gold, with red-roofed wings around public baths, meditation halls, and training grounds.",
       "nolabel": true
     },
     {
@@ -589,7 +589,7 @@
       "ward": "market",
       "x": 5857,
       "y": 623,
-      "text": "The open court luxurious spa for only the well-appointed across the street from the Great Gymnasium.  Names are checked at the door."
+      "text": "The open-court, luxurious spa for only the well-appointed across the street from the Great Gymnasium.  Names are checked at the door."
     },
     {
       "id": "wooly-cupgrass-laboratory",
