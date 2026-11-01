@@ -27,7 +27,7 @@
       "ward": "lady",
       "x": 535,
       "y": 195,
-      "text": "",
+      "text": "A walled, fortress-like compound with two tall towers, the entrance in the shape of two clasping hands. Soldiers in matching armor come and go through its gates.",
       "nolabel": true
     },
     {
@@ -36,7 +36,7 @@
       "ward": "lady",
       "x": 585,
       "y": 479,
-      "text": "",
+      "text": "A grand hall of pale stone and tall spires where the city's disputes are argued and judged.",
       "nolabel": true
     },
     {
@@ -45,7 +45,7 @@
       "ward": "lady",
       "x": 929,
       "y": 533,
-      "text": "",
+      "text": "A great domed tower ringed with spikes and dark stone, where the city keeps its criminals and lawbreakers.",
       "nolabel": true
     },
     {
@@ -54,7 +54,7 @@
       "ward": "lady",
       "x": 349,
       "y": 694,
-      "text": "",
+      "text": "A domed hall with a slender bell tower beside it.  It rings every peak and is accompanied by flare at the top of the bell tower.",
       "nolabel": true
     },
     {
@@ -63,7 +63,7 @@
       "ward": "lady",
       "x": 1507,
       "y": 782,
-      "text": "",
+      "text": "A tall, spired structure standing on thin legs, with a pale clearing around it.  Below the tower is an opposite hole that leads to only darkness.",
       "nolabel": true
     },
     {
@@ -72,7 +72,7 @@
       "ward": "lady",
       "x": 1409,
       "y": 429,
-      "text": ""
+      "text": "A stone and wooden structure with offices, bedchambers, a common room, and a stage always occupied by a bard."
     },
     {
       "id": "red-sensation-museum-of-art",
@@ -80,7 +80,7 @@
       "ward": "lady",
       "x": 501,
       "y": 873,
-      "text": ""
+      "text": "A tall, narrow gallery of oxblood stone with no windows and a single entrance."
     },
     {
       "id": "baatorian-embassy",
@@ -88,7 +88,7 @@
       "ward": "lady",
       "x": 832,
       "y": 574,
-      "text": ""
+      "text": "A cold black-stone building hung with red banners, with one guarded door."
     },
     {
       "id": "mirrored-museums",
@@ -96,7 +96,7 @@
       "ward": "lady",
       "x": 1186,
       "y": 946,
-      "text": ""
+      "text": "Two museums face opposite each on the same block: Madam Buffont's House of Hair, and Lady Tryst's Display of Nails. All day admission is two silver per side; including hand stamp."
     },
     {
       "id": "armory",
@@ -437,7 +437,7 @@
       "ward": "lady",
       "x": 149,
       "y": 461,
-      "text": ""
+      "text": "A candy and sweet shop."
     },
     {
       "id": "tower-of-light-and-confusion",
@@ -445,7 +445,7 @@
       "ward": "lady",
       "x": 174,
       "y": 424,
-      "text": ""
+      "text": "A fun-house style tower of shifting lights and dizzying corridors, right next door to Everything Unexpected."
     },
     {
       "id": "xaos-kollage",
@@ -453,7 +453,7 @@
       "ward": "lady",
       "x": 1340,
       "y": 539,
-      "text": ""
+      "text": "A music venue."
     },
     {
       "id": "screaming-tower",
@@ -461,7 +461,7 @@
       "ward": "lady",
       "x": 1567,
       "y": 266,
-      "text": ""
+      "text": "A twisted, hollow tower that wails whenever a great gust of wind blows through it, every once in a while, generating its own."
     },
     {
       "id": "palace-of-the-jester",
@@ -469,7 +469,7 @@
       "ward": "lady",
       "x": 343,
       "y": 1017,
-      "text": ""
+      "text": "A ridiculously huge hall that sits mostly empty except on the rare occasions where the richest and most powerful of Sigil meet under an enforced peace."
     },
     {
       "id": "high-up",
@@ -477,7 +477,7 @@
       "ward": "lady",
       "x": 184,
       "y": 313,
-      "text": ""
+      "text": "A fashion boutique."
     },
     {
       "id": "rule-of-four",
@@ -645,7 +645,7 @@
       "ward": "lady",
       "x": 719,
       "y": 995,
-      "text": ""
+      "text": "A tall flowered silver arch portal standing alone in a large alley that leads directly to the theater."
     },
     {
       "id": "magnum-opus-musee",
@@ -653,7 +653,7 @@
       "ward": "lady",
       "x": 55,
       "y": 807,
-      "text": ""
+      "text": "A two story arcane museum devoted to Planar archeology.  Admission is 3 silver per visit."
     },
     {
       "id": "zadara-s-tower",
@@ -661,7 +661,7 @@
       "ward": "lady",
       "x": 1390,
       "y": 635,
-      "text": ""
+      "text": "A tower of pale stone with a door twice the size as a normal door that seems to have never opened."
     },
     {
       "id": "st-azreal-s-church",
@@ -669,7 +669,7 @@
       "ward": "lady",
       "x": 920,
       "y": 886,
-      "text": ""
+      "text": "A church which was once a reputable theater but there is noticeable wear.  A sign in front shows that the building is multipurpose including worship services, Leaping Friends Community Players, Gambling Addicts Anonymous, Journeyman Adventurers Beginning Courses, and Sewers and Spectres Club."
     },
     {
       "id": "bibbins-bags",
