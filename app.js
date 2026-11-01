@@ -215,7 +215,7 @@
     cur.wards.forEach(function (w) {
       var list = all.filter(function (p) { return p.ward === w.id; });
       var rev = list.filter(revealed);
-      var shown = DM_PAGE ? list : rev;
+      var shown = (DM_PAGE ? list : rev).slice().sort(function (a, b) { return a.name.localeCompare(b.name, undefined, { sensitivity: 'base' }); });
       var d = el('details'); d.style.setProperty('--c', w.color);
       if (openWards[w.id]) d.open = true;
       d.addEventListener('toggle', function () { openWards[w.id] = d.open; });
