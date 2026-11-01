@@ -104,7 +104,7 @@
       "ward": "lower",
       "x": 1692,
       "y": 329,
-      "text": "",
+      "text": "A great angular fortress of steel-gray plates and tall windows covered in razorvine, hung with gold banners.",
       "nolabel": true
     },
     {
@@ -113,7 +113,7 @@
       "ward": "lower",
       "x": 2123,
       "y": 416,
-      "text": "",
+      "text": "A vast, dirty, smoking cluster of squat buildings and chimneys, its furnaces and hammers never unused.",
       "nolabel": true
     },
     {
@@ -122,7 +122,7 @@
       "ward": "lower",
       "x": 2480,
       "y": 573,
-      "text": "",
+      "text": "A great temple that may have once been beautiful.  Now glassless windows stare out and broken arches rise like ribs from the rubble, covered in moss.",
       "nolabel": true
     },
     {
@@ -131,7 +131,7 @@
       "ward": "lower",
       "x": 1960,
       "y": 788,
-      "text": "",
+      "text": "A narrow unimpressive brick building, tucked among crooked lanes.  Offering standard food, standard ale.",
       "nolabel": true
     },
     {
@@ -140,7 +140,7 @@
       "ward": "lower",
       "x": 2520,
       "y": 1013,
-      "text": ""
+      "text": "A tavern of darkwood polished stone with a red lantern hung over the door.  The menu is always in infernal and so is the food."
     },
     {
       "id": "parted-veil",
@@ -148,7 +148,7 @@
       "ward": "lower",
       "x": 2338,
       "y": 367,
-      "text": "",
+      "text": "A bookshop with a striped awning and flags over the door, known for its maze-like aisles and whispering tomes.",
       "nolabel": true
     },
     {
@@ -157,7 +157,7 @@
       "ward": "lower",
       "x": 2470,
       "y": 193,
-      "text": "",
+      "text": "A githzerai meeting place where local bashers come to drink.  Its faded but still slightly reflective metal exterior is in the shape of a giant githzerai face.",
       "nolabel": true
     },
     {
@@ -166,7 +166,7 @@
       "ward": "lower",
       "x": 2593,
       "y": 894,
-      "text": "",
+      "text": "A place of pale stone, now ruined at the edge of the ward.  An occasional lamplight emanates from the site.",
       "nolabel": true
     },
     {
@@ -175,7 +175,7 @@
       "ward": "lower",
       "x": 2597,
       "y": 455,
-      "text": ""
+      "text": "A crowded inn named for the connections to the elemental planes.  Water flows freely here, fire burns in its hearth, light emits from its shades, unmentionables, and a breeze summoned with coin. A stable stands tucked in behind."
     },
     {
       "id": "mortuary",
@@ -485,7 +485,7 @@
       "ward": "lower",
       "x": 2011,
       "y": 1008,
-      "text": ""
+      "text": "An elaborate building of exquisitely carved stone that hosts an alehouse, feasthall, bathhouse and steamroom all under one roof.  Here you'll find yourself relaxing into any activity."
     },
     {
       "id": "sign-of-the-drunken-mage",
@@ -493,7 +493,7 @@
       "ward": "lower",
       "x": 2451,
       "y": 832,
-      "text": ""
+      "text": "A tavern on Alehouse Row, marked by a sign of a mage swaying drunk.  A resting place, famous for its magic users, a barrier marks every person without a spark of magic who walks through the door, for insult."
     },
     {
       "id": "dirk-and-firkin-tavern",
@@ -501,7 +501,7 @@
       "ward": "lower",
       "x": 2476,
       "y": 933,
-      "text": ""
+      "text": "A tavern whose sign shows a dagger and a small cask.  The most normal tavern on Alehouse Row, which makes it one of the most popular."
     },
     {
       "id": "spireward-trading-co",
@@ -509,7 +509,7 @@
       "ward": "lower",
       "x": 2376,
       "y": 736,
-      "text": ""
+      "text": "A multistoried building with well dressed individuals walking in and out of it.  The company seems to have many offices beyond just this one."
     },
     {
       "id": "the-friendly-fiend",
@@ -517,7 +517,7 @@
       "ward": "lower",
       "x": 2110,
       "y": 283,
-      "text": ""
+      "text": "A cramped shop of magical trinkets, kept by a yugoloth.  You need it, it might be here."
     },
     {
       "id": "the-golden-bell-pawnshop",
@@ -525,7 +525,7 @@
       "ward": "lower",
       "x": 2146,
       "y": 835,
-      "text": ""
+      "text": "A pawnshop that will take almost anything.  Marked by a golden bell over the door."
     },
     {
       "id": "hands-of-time-clockwork-shop",
@@ -533,7 +533,7 @@
       "ward": "lower",
       "x": 2038,
       "y": 543,
-      "text": ""
+      "text": "A shop that is itself a shifting mechanical sculpture with ticking gears and a clock that rings on every hour.  Every need of a mechanical nature will be fulfilled here."
     },
     {
       "id": "giltspur-s-auction-block",
@@ -541,7 +541,7 @@
       "ward": "lower",
       "x": 2339,
       "y": 258,
-      "text": ""
+      "text": "A high-roofed, one-room auction house where anything may be sold to the highest bidder.  Everything above board."
     },
     {
       "id": "boneyard-pond",
