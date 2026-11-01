@@ -183,7 +183,7 @@
       "ward": "hive",
       "x": 2830,
       "y": 237,
-      "text": "",
+      "text": "A sprawling gray-green hall of domes and spires, home of the Dustmen. Anyone may come to pay respects to the dead, or dispose of them.",
       "nolabel": true
     },
     {
@@ -192,7 +192,7 @@
       "ward": "hive",
       "x": 3167,
       "y": 422,
-      "text": "",
+      "text": "A tiered tower of terraces and spires, the Bleak Cabal's asylum.  Faces peek out from the tiny windows.",
       "nolabel": true
     },
     {
@@ -201,7 +201,7 @@
       "ward": "hive",
       "x": 2887,
       "y": 551,
-      "text": "",
+      "text": "A wide, foul channel of slow moving water cutting through the Hive, crossed by a few bridges.",
       "nolabel": true
     },
     {
@@ -210,7 +210,7 @@
       "ward": "hive",
       "x": 3028,
       "y": 837,
-      "text": "",
+      "text": "A market that sets up in the shadow of the Gatehouse after dark.  Don’t ask for names, don’t ask for change, and don’t ask where it came from.",
       "nolabel": true
     },
     {
@@ -219,7 +219,7 @@
       "ward": "hive",
       "x": 3781,
       "y": 188,
-      "text": "",
+      "text": "A tattoo shop in a rounded building with an interestingly moving sign and also interestingly moving tattoos.",
       "nolabel": true
     },
     {
@@ -228,7 +228,7 @@
       "ward": "hive",
       "x": 3673,
       "y": 488,
-      "text": "",
+      "text": "A low, domed bar whose chimneys never stop smoking and whose blood stained metal tables are never empty.",
       "nolabel": true
     },
     {
@@ -237,7 +237,7 @@
       "ward": "hive",
       "x": 4054,
       "y": 388,
-      "text": "",
+      "text": "A tall terraced metal tavern topped with a huge rat skull.  Meat is questionable and questions are offensive.",
       "nolabel": true
     },
     {
@@ -246,7 +246,7 @@
       "ward": "hive",
       "x": 3567,
       "y": 855,
-      "text": "",
+      "text": "A tavern with a round tower and a tall arched door.  Made of black granite and features nightly entertainment combat.",
       "nolabel": true
     },
     {
@@ -255,7 +255,7 @@
       "ward": "hive",
       "x": 4118,
       "y": 841,
-      "text": "",
+      "text": "A wide ring-shaped pit at the edge of the district.  Packed tightly with food stalls, a wide range of foods and beverages are available around a central table area.",
       "nolabel": true
     },
     {
@@ -264,7 +264,7 @@
       "ward": "hive",
       "x": 3083,
       "y": 390,
-      "text": ""
+      "text": "A modest house on a straight row, east of the Mortuary."
     },
     {
       "id": "cask-family-hq",
@@ -272,7 +272,7 @@
       "ward": "hive",
       "x": 3811,
       "y": 606,
-      "text": ""
+      "text": "Through twisting hallways, a back room of the Smoldering Corpse Bar."
     },
     {
       "id": "ninefold-tenement",
@@ -280,7 +280,7 @@
       "ward": "hive",
       "x": 2932,
       "y": 778,
-      "text": ""
+      "text": "Taking over a collapsed tenement in a courtyard on the Ditch's east bank, at the edge of the Night Market."
     },
     {
       "id": "rusted-bell-hangout",
@@ -288,7 +288,7 @@
       "ward": "hive",
       "x": 3705,
       "y": 932,
-      "text": ""
+      "text": "A hangout tucked away in the basement of the Bottle and Jug.  Only accessible through an alley entrance."
     },
     {
       "id": "gray-ledger",
@@ -296,7 +296,7 @@
       "ward": "hive",
       "x": 4061,
       "y": 587,
-      "text": ""
+      "text": "A clean, tidy counting house, odd for the Hive, tucked between a patched-up chandler and a small home."
     },
     {
       "id": "certified-fishing-circle-of-the-ditch",
@@ -549,7 +549,7 @@
       "ward": "hive",
       "x": 3851,
       "y": 889,
-      "text": ""
+      "text": "A still pond with floating refuse, perhaps a corpse, and someone on the shore trying to find a drink."
     },
     {
       "id": "scratch-wall",
@@ -557,7 +557,7 @@
       "ward": "hive",
       "x": 3288,
       "y": 288,
-      "text": ""
+      "text": "A wall covered in scratched messages. Press a copper to it and it will take your words for others to read."
     },
     {
       "id": "silverahm-virlikot-s-billiard-parlor",
