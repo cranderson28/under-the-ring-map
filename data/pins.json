@@ -702,6 +702,14 @@
       "text": "A cottage on the corner that looks like it could fall apart at any time, but a closer look shows that the wood is well made, the nails well placed, and the roof well thatched.",
       "x": 3547,
       "y": 723
+    },
+    {
+      "id": "portal-to-korvash",
+      "name": "Portal to Korvash",
+      "ward": "clerk",
+      "x": 5225,
+      "y": 495,
+      "text": ""
     }
   ]
 }
