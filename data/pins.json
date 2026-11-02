@@ -718,6 +718,14 @@
       "x": 102,
       "y": 599,
       "text": "Water can be heard rushing behind a locked grate in the side of the street."
+    },
+    {
+      "id": "wools-silks-and-custom-imports-inc",
+      "name": "Wools, Silks, and Custom Imports, Inc.",
+      "ward": "lady",
+      "x": 1662,
+      "y": 930,
+      "text": ""
     }
   ]
 }
