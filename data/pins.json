@@ -714,7 +714,7 @@
     {
       "id": "sewer-entrance",
       "name": "Sewer Entrance",
-      "ward": "lady",
+      "ward": "under",
       "x": 102,
       "y": 599,
       "text": "Water can be heard rushing behind a locked grate in the side of the street."
