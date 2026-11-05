@@ -44,5 +44,20 @@
         "color": "#795548"
       }
     ]
+  },
+  {
+    "id": "cinderbark-crossing",
+    "name": "Cinderbark Crossing",
+    "image": "images/cinderbark-crossing.webp",
+    "width": 1014,
+    "height": 1551,
+    "wrap": false,
+    "wards": [
+      {
+        "id": "any",
+        "name": "Cinderbark Crossing",
+        "color": "#795548"
+      }
+    ]
   }
 ]
