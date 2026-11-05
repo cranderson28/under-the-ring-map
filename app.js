@@ -255,7 +255,7 @@
       if (cur && m.id === cur.id) o.selected = true;
       sel.appendChild(o);
     });
-    sel.hidden = list.length < 2;
+    $('mapbar').hidden = list.length < 2;
   }
 
   function buildMapSec() {

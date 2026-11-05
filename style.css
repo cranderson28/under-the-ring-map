@@ -97,14 +97,23 @@ body {
   pointer-events: none;
 }
 #mapctl > * { pointer-events: auto; }
+#mapbar {
+  position: sticky; bottom: -28px;
+  margin: 14px -14px -28px;
+  padding: 8px 14px calc(8px + env(safe-area-inset-bottom, 0px));
+  background: var(--panel);
+  border-top: 1px solid var(--line);
+}
+#mapbar[hidden] { display: none; }
 #mapsel {
-  background: rgba(20,17,15,.88);
+  width: 100%;
+  background: var(--panel2);
   color: var(--ink);
   border: 1px solid var(--line);
   border-radius: 6px;
-  padding: 6px 8px;
+  padding: 8px 10px;
   font: inherit;
-  font-size: 14px;
+  font-size: 16px;
 }
 .zoombtns { display: flex; flex-direction: column; gap: 6px; }
 .zoombtns button {

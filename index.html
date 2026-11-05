@@ -12,13 +12,13 @@
   <div id="map"></div>
   <div id="pins"></div>
   <div id="mapctl">
-    <select id="mapsel" aria-label="Choose map" hidden></select>
     <div class="zoombtns"><button id="zin" aria-label="Zoom in">+</button><button id="zout" aria-label="Zoom out">&minus;</button></div>
   </div>
 </div>
 <div id="panel">
   <div id="card" class="empty">Tap a pin on the map to read about it.</div>
   <div id="wards" class="wards"></div>
+  <div id="mapbar" hidden><select id="mapsel" aria-label="Choose map"></select></div>
 </div>
 <script src="https://www.gstatic.com/firebasejs/10.12.2/firebase-app-compat.js"></script>
 <script src="https://www.gstatic.com/firebasejs/10.12.2/firebase-database-compat.js"></script>
